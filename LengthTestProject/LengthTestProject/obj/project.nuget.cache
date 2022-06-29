@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mnSPlpXxWcoQXVBxCrrrVmMj9X7vnm7f3Ctu4iprA5DV1v+4Cv7CmzgyIBP2A0YzM04BJgrLzgXJy/aEVSk0UQ==",
+  "dgSpecHash": "jcVLn28Eps36BlbeBT9+V0epYvER0sga9u1ky+XO0Hp+xwMW3+sg/h+XY62FTjClSE9n4IW22QpyO5cakpztwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tej\\workArea\\C#.Net\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj",
+  "projectFilePath": "C:\\Users\\tej\\workArea\\C#.Net\\LengthConsoleApp\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tej\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\tej\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

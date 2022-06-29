@@ -102,3 +102,11 @@ C:\Users\tej\workArea\C#.Net\LengthTestProject\LengthTestProject\obj\Debug\net6.
 C:\Users\tej\workArea\C#.Net\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.pdb
 C:\Users\tej\workArea\C#.Net\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.genruntimeconfig.cache
 C:\Users\tej\workArea\C#.Net\LengthTestProject\LengthTestProject\obj\Debug\net6.0\ref\LengthTestProject.dll
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.csproj.AssemblyReference.cache
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.AssemblyInfoInputs.cache
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.AssemblyInfo.cs
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.csproj.CoreCompileInputs.cache
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.dll
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\refint\LengthTestProject.dll
+C:\Users\tej\workArea\C#.Net\LengthConsoleApp\LengthTestProject\LengthTestProject\obj\Debug\net6.0\LengthTestProject.pdb

@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LengthClassLibrary">
-      <HintPath>..\..\LengthClassLibrary\LengthClassLibrary\bin\Debug\LengthClassLibrary.dll</HintPath>
+    <Reference Include="LengthClassLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LengthClassLibrary\LengthClassLibrary\bin\Debug\LengthClassLibrary.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

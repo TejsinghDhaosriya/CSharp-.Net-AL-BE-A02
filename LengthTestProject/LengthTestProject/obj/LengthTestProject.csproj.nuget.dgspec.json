@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tej\\workArea\\C#.Net\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj": {}
+    "C:\\Users\\tej\\workArea\\C#.Net\\LengthConsoleApp\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tej\\workArea\\C#.Net\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj": {
+    "C:\\Users\\tej\\workArea\\C#.Net\\LengthConsoleApp\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tej\\workArea\\C#.Net\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\tej\\workArea\\C#.Net\\LengthConsoleApp\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj",
         "projectName": "LengthTestProject",
-        "projectPath": "C:\\Users\\tej\\workArea\\C#.Net\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj",
+        "projectPath": "C:\\Users\\tej\\workArea\\C#.Net\\LengthConsoleApp\\LengthTestProject\\LengthTestProject\\LengthTestProject.csproj",
         "packagesPath": "C:\\Users\\tej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tej\\workArea\\C#.Net\\LengthTestProject\\LengthTestProject\\obj\\",
+        "outputPath": "C:\\Users\\tej\\workArea\\C#.Net\\LengthConsoleApp\\LengthTestProject\\LengthTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tej\\AppData\\Roaming\\NuGet\\NuGet.Config",
