@@ -12,8 +12,7 @@
           "coverlet.collector": "3.1.2",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3",
-          "LengthClassLibrary": "1.0.0.0",
-          "LengthConsoleApp": "1.0.0.0"
+          "LengthClassLibrary": "1.0.0.0"
         },
         "runtime": {
           "LengthTestProject.dll": {}
@@ -1098,14 +1097,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "LengthConsoleApp/1.0.0.0": {
-        "runtime": {
-          "LengthConsoleApp.exe": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -1760,11 +1751,6 @@
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
     "LengthClassLibrary/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "LengthConsoleApp/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

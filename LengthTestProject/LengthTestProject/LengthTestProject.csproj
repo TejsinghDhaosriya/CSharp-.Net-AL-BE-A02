@@ -22,10 +22,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="LengthClassLibrary">
-      <HintPath>..\..\LengthConsoleApp\LengthConsoleApp\bin\Debug\LengthClassLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="LengthConsoleApp">
+	  <Reference Include="LengthClassLibrary">
+	    <HintPath>..\..\LengthClassLibrary\LengthClassLibrary\bin\Debug\LengthClassLibrary.dll</HintPath>
+	  </Reference>
+	  <Reference Include="LengthConsoleApp">
       <HintPath>..\..\LengthConsoleApp\LengthConsoleApp\bin\Debug\LengthConsoleApp.exe</HintPath>
     </Reference>
   </ItemGroup>
