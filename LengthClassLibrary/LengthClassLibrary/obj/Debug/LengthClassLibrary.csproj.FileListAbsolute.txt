@@ -1,0 +1,6 @@
+C:\Users\tej\workArea\C#.Net\LengthClassLibrary\LengthClassLibrary\bin\Debug\LengthClassLibrary.dll
+C:\Users\tej\workArea\C#.Net\LengthClassLibrary\LengthClassLibrary\bin\Debug\LengthClassLibrary.pdb
+C:\Users\tej\workArea\C#.Net\LengthClassLibrary\LengthClassLibrary\obj\Debug\LengthClassLibrary.csproj.AssemblyReference.cache
+C:\Users\tej\workArea\C#.Net\LengthClassLibrary\LengthClassLibrary\obj\Debug\LengthClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tej\workArea\C#.Net\LengthClassLibrary\LengthClassLibrary\obj\Debug\LengthClassLibrary.dll
+C:\Users\tej\workArea\C#.Net\LengthClassLibrary\LengthClassLibrary\obj\Debug\LengthClassLibrary.pdb
