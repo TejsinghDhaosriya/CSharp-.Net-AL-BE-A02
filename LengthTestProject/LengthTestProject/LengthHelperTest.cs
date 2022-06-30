@@ -1,8 +1,10 @@
 using System;
 using LengthClassLibrary;
+using LengthClassLibrary.exceptions;
+
 namespace LengthTestProject
 {
-    public class UnitTest
+    public class LengthHelperTest
     {
 
         [Fact]
@@ -59,6 +61,32 @@ namespace LengthTestProject
             int len = lh.findLength(data);
 
             Assert.Equal(0, len);
+        }
+
+
+        [Fact]
+        public void ShouldReturnCurrencyWhenStringIsValid()
+        {
+            var data = "aa";
+
+            LengthHelper lh = new LengthHelper();
+            var res = lh.ToCurrency(data);
+
+
+            Assert.Equal("$" + data, res);
+        }
+
+
+        [Fact]
+        public void ShouldThrowErrorWhenStringIsInValid()
+        {
+            var data = "aaa123a";
+
+            LengthHelper lh = new LengthHelper();
+            var ex = Assert.Throws<InvalidCurrencyException>(() => lh.ToCurrency(data));
+
+
+            Assert.Equal("Invalid Currency Passed: " + data, ex.Message);
         }
 
     }
