@@ -1,7 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=076bc422_002Dbf13_002D4459_002Dac1f_002D013c12e06786/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="shouldReturnStringLengthAs1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::5DDC69BD-46D6-42D1-BA24-98672C5096F2::net6.0::LengthTestProject.CurrencyTest.shouldReturnCurrencyWhenStringIsValid&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::5DDC69BD-46D6-42D1-BA24-98672C5096F2::net6.0::LengthTestProject.CurrencyTest.shouldThrowErrorWhenStringIsInValid&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;5DDC69BD-46D6-42D1-BA24-98672C5096F2/f:CurrencyTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;5DDC69BD-46D6-42D1-BA24-98672C5096F2/f:LengthHelperTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

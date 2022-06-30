@@ -1,4 +1,3 @@
-using System;
 using LengthClassLibrary;
 using LengthClassLibrary.exceptions;
 
