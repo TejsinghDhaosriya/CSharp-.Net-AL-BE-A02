@@ -6,7 +6,7 @@ namespace LengthClassLibrary.exceptions
     {
         
         public InvalidCurrencyException(string name)
-            : base($"Invalid Currency Passed: {name}")
+            : base(name)
         { }
     }
 }
