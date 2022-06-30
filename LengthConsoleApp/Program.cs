@@ -17,7 +17,7 @@ namespace LengthConsoleApp
             Console.WriteLine("Length is :"+ length);
            
 
-            //Assignment 3
+            //Assignment 4
             try {
                 var currency = lh.ToCurrency(data);
                 Console.WriteLine("Currency is: " + currency);

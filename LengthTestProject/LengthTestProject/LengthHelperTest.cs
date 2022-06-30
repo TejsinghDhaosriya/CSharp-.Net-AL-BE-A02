@@ -63,6 +63,7 @@ namespace LengthTestProject
             Assert.Equal(0, len);
         }
 
+        //integration tests
 
         [Fact]
         public void ShouldReturnCurrencyWhenStringIsValid()
