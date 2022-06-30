@@ -65,6 +65,30 @@ namespace LengthTestProject
         //integration tests
 
         [Fact]
+        public void ShouldReturnCurrencyWhenStringIsEmpty()
+        {
+            var data = "";
+
+            LengthHelper lh = new LengthHelper();
+            var res = lh.ToCurrency(data);
+
+
+            Assert.Equal("$" + data, res);
+        }
+
+        [Fact]
+        public void ShouldReturnCurrencyWhenStringIsNull()
+        {
+            string data = null;
+
+            LengthHelper lh = new LengthHelper();
+            var ex = Assert.Throws<InvalidCurrencyException>(() => lh.ToCurrency(data));
+
+
+            Assert.Equal("No Currency Passed", ex.Message);
+        }
+
+        [Fact]
         public void ShouldReturnCurrencyWhenStringIsValid()
         {
             var data = "aa";
