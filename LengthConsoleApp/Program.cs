@@ -1,5 +1,6 @@
 ﻿using System;
 using LengthClassLibrary;
+using LengthClassLibrary.exceptions;
 
 namespace LengthConsoleApp
 {
@@ -14,6 +15,17 @@ namespace LengthConsoleApp
             var length = lh.findLength(data);
 
             Console.WriteLine("Length is :"+ length);
+           
+
+            //Assignment 3
+            try {
+                var currency = lh.ToCurrency(data);
+                Console.WriteLine("Currency is: " + currency);
+            }
+            catch (InvalidCurrencyException ex) {
+                Console.WriteLine(ex.Message);
+            }
+
             Console.Read();
         }
     }
